@@ -37,7 +37,10 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/
+    - assets/images/cappucino.jpg
+    - assets/images/latte.jpg
+    - assets/images/milk.jpg
+    - assets/images/black.jpg
 
   fonts:
     - family: Bebas Neue

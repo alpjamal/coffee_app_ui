@@ -1,4 +1,4 @@
-import 'package:coffee_app_ui/pages/home_page.dart';
+import 'package:coffee_app_ui/screens/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         brightness: Brightness.dark,
         primarySwatch: Colors.orange,
       ),
-      home: HomePage(),
+      home: const HomePage(),
     );
   }
 }
